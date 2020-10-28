@@ -10,3 +10,6 @@ Remember, you must break as many bricks as possible to get the highest scores an
 i might release iterative versions in the future.
 
 ThankYou!
+
+
+![Screenshot](preview.png)
